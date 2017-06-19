@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "91425147413",
+    "project_id": "conversations-197b3"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91425147413:android:a61b47ae910a1ad7",
+        "android_client_info": {
+          "package_name": "eu.siacs.conversations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91425147413-dqluj3qpd061ijscp6dm7lmlmv32rfbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALSbWXkJ4T7OkOXhOW3cKInVfStaInRug"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
